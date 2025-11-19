@@ -2,7 +2,7 @@
 
 **Proyecto:** Clasificación Multiclase con Alta Dimensionalidad
 **Curso:** Inteligencia Artificial - Universidad Agustiniana
-**Autor:** Juan Sebastian Moreno Jimenez
+**Autor:** Joan Sebastian Montes Jerez
 **Fecha:** Noviembre 2024
 
 ---
