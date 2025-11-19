@@ -232,8 +232,6 @@ Este proyecto es material académico para el curso de Inteligencia Artificial de
 - [x] requirements.txt con dependencias
 - [x] Dataset accesible en `Data/archive/`
 - [x] Código reproducible (random_state=42)
-- [x] Comentarios y explicaciones en español
-- [x] Visualizaciones profesionales
 - [x] Análisis completo de las 9 secciones requeridas
 
 ---
