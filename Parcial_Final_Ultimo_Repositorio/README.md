@@ -1,7 +1,9 @@
 # Proyecto B — Clasificación Multiclase de Objetos Estelares
 
 **Curso:** Inteligencia Artificial - Universidad Agustiniana
+
 **Tipo de Proyecto:** Clasificación Multiclase con Alta Dimensionalidad
+
 **Dataset:** Stellar Classification Dataset - SDSS17
 
 ---
