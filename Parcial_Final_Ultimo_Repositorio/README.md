@@ -211,7 +211,7 @@ Los resultados detallados se encuentran en [REPORT.md](REPORT.md), pero en resum
 
 ## 👨‍💻 Autor
 
-**[Tu Nombre]**
+**Joan Sebastian Montes Jerez**
 Universidad Agustiniana
 Curso: Inteligencia Artificial
 Noviembre 2025
