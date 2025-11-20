@@ -1,7 +1,9 @@
 # Proyecto B — Clasificación Multiclase de Objetos Estelares
 
 **Curso:** Inteligencia Artificial - Universidad Agustiniana
+
 **Tipo de Proyecto:** Clasificación Multiclase con Alta Dimensionalidad
+
 **Dataset:** Stellar Classification Dataset - SDSS17
 
 ---
@@ -209,7 +211,7 @@ Los resultados detallados se encuentran en [REPORT.md](REPORT.md), pero en resum
 
 ## 👨‍💻 Autor
 
-**[Tu Nombre]**
+**Joan Sebastian Montes Jerez**
 Universidad Agustiniana
 Curso: Inteligencia Artificial
 Noviembre 2025
@@ -230,8 +232,6 @@ Este proyecto es material académico para el curso de Inteligencia Artificial de
 - [x] requirements.txt con dependencias
 - [x] Dataset accesible en `Data/archive/`
 - [x] Código reproducible (random_state=42)
-- [x] Comentarios y explicaciones en español
-- [x] Visualizaciones profesionales
 - [x] Análisis completo de las 9 secciones requeridas
 
 ---
